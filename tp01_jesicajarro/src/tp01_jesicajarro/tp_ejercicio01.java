@@ -11,6 +11,7 @@ public class tp_ejercicio01 {
 		int num5=5;
 		double prom= (double)(num1+num2+num3+num4+num5)/5;
 System.out.println("El promedio es: "+prom);
+
 	}
 
 }
